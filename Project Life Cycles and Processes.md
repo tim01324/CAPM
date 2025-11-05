@@ -89,3 +89,14 @@ focus on short-term
 # Adaptive approach(just like a agile, sprint)
 
 more like a circle way to plan and execute the project
+
+
+# project management life cycle
+
+initiating
+planning
+executing
+monitoring and controlling
+closing
+
+during monitoring and controlling, if there is a problem, we go back to planning phase to fix the problem
