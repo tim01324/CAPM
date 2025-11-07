@@ -100,3 +100,13 @@ monitoring and controlling
 closing
 
 during monitoring and controlling, if there is a problem, we go back to planning phase to fix the problem
+
+
+# define project scope
+
+define the boundaries of a project
+outlines what will be included or excluded
+
+# project scope statement
+
+Goals and objectives
