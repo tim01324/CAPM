@@ -110,3 +110,18 @@ outlines what will be included or excluded
 # project scope statement
 
 Goals and objectives
+
+# Project risk management
+
+performing qualitative risk analysis
+ - 快速篩選並排定風險的優先級
+performing quantitative risk analysis
+ - 用數值來分析這些高優先級風險對專案整體目標（如總成本或總工期）的綜合影響
+
+ # project procurement management
+ - 確保專案所需的資源和服務能夠順利取得
+
+# MACD
+moving, adding, changing, deleting
+
+![img](Gemini_Generated_Image_c4jmkwc4jmkwc4jm.png)
