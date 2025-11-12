@@ -113,9 +113,9 @@ Goals and objectives
 
 # Project risk management
 
-performing qualitative risk analysis
+performing qualitative risk analysis(定性風險分析)
  - 快速篩選並排定風險的優先級 low/medium/high
-performing quantitative risk analysis
+performing quantitative risk analysis(定量風險分析)
  - 用數值來分析這些高優先級風險對專案整體目標（如總成本或總工期）的綜合影響
 
  # project procurement management
