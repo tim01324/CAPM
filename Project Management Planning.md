@@ -47,3 +47,29 @@ X is usually a variable, such as cost, time, quality, etc.
 change requests have a baseline
 log
 risk register
+
+# Controlling quality themes 
+conduct statistical QC, such as sampling and probability
+inspect the product(escape defects)
+
+attribiute sampling: defect or not
+variavle sampling: how defet is it
+special cause: unusual cause
+random cause: common cause
+check the tolerance range
+control limits
+
+# data gathering and analysis
+check lists
+check sheets
+
+# cause and effect chart
+fishbone diagram
+
+Pareto diagram
+80/20 rule 80% of problems are caused by 20% of causes
+
+histogram a bar chart
+
+scatter diagram
+correlation between two variables
