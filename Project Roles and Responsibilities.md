@@ -122,3 +122,53 @@ Action Items
  Review contractor management and ethical billing practices
  Practice distinguishing between risks and issues in scenarios
 
+Summary
+Regenerate
+Project Management Authority and Organizational Structure
+Project sponsor must have organizational authority over all resources utilized in project
+Cannot sponsor projects using peer-level resources without higher authority
+Must go above both parties to establish proper sponsorship chain
+Project manager acts as proxy/representative of sponsor with delegated authority
+Authority delegation enables resource management without constant sponsor involvement
+Project Sponsor Core Responsibilities
+Provides financial and strategic support for project initiatives
+Acts as decision maker for escalated issues beyond PM authority
+Threshold-based escalation (e.g., >$10,000 scope changes, >4 weeks timeline impact)
+Approves budget modifications and scope changes
+Communicates project status to stakeholders and organizational peers
+Facilitates communication and collaboration across organizational levels
+Ensures project alignment with business goals and strategic objectives
+Defines business value proposition and return on investment expectations
+Project Sponsor Alternative Titles and Functions
+Champion, decision maker, communicator, leader, business representative, resource provider
+Most common exam term: "project sponsor"
+Campaigns for project support and stakeholder engagement
+Provides vision and leadership direction for project outcomes
+Handles external communications (media, community) when appropriate
+Project Manager Comprehensive Role
+Oversees entire project lifecycle and all management facets
+Responsible for scope, schedule, cost, quality, resources, communication, risk, procurement, stakeholder engagement
+Sets team goals and develops project plans collaboratively
+Monitors KPIs: time, cost, scope, quality, risk metrics
+Must understand procurement concepts despite potentially limited direct experience
+Agile-Specific Roles and Structure
+Product Owner: manages product scope and stakeholder requirements
+Creates and prioritizes product backlog from most to least important
+Develops product roadmap and release planning
+Works with development team throughout project lifecycle
+Scrum Master: facilitates Scrum framework adherence
+Shields team from distractions and removes impediments
+Ensures team has necessary resources and information
+Distributes traditional PM responsibilities across three roles (Product Owner, Dev Team, Scrum Master)
+Team Structure and Specialized Roles
+Project team/development team: performs actual work affecting project success
+Team Lead: senior technical point person bridging PM and technical team
+Developers: build, implement, code, design systems and architecture
+Testers: verify requirements compliance, write test cases, report issues
+Designers: create user interface, visual experience, wireframes, prototypes
+Writers: produce user manuals, help documentation, marketing materials (not meeting scribes)
+Stakeholder Management Framework
+Stakeholders: anyone affected by or able to affect project
+Include sponsors, customers, end users with vested interests
+Categorized as positive, negative, or neutral based on project attitude
+Provide input/feedback and approve deliverables for scope validation
